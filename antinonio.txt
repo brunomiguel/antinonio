@@ -222,6 +222,5 @@
 * windows.net * block
 * yabidos.com * block
 * yahooapis.com * block
-* yahoo.com * block
 * zemanta.com * block
 * zencdn.net * block
