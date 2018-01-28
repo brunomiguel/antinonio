@@ -5,3 +5,5 @@ Para a utilizares no uBlock, deves:
 * copiar o endereço https://raw.githubusercontent.com/brunomiguel/antinonio/master/antinonio.txt
 * aceder às opções do adblocker e clicar no separador 3rd-party filters
 * ir até ao final desse separador e colar a hiperligação copiada no último campo
+
+Pull requests e/ou bug reports são bem-vindos.
