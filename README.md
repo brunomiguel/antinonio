@@ -7,3 +7,5 @@ Para a utilizares no uBlock, deves:
 * ir até ao final desse separador e colar a hiperligação copiada no último campo
 
 Pull requests e/ou bug reports são bem-vindos.
+
+A lista é considerada alpha. Usem por vossa conta e risco.
