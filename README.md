@@ -4,7 +4,7 @@ Este repositório apenas replica essa lista e facilita a sua integração no uBl
 Para a utilizares no uBlock, deves usar uma das seguintes opções:
 
 #### Opção 1
-Clicar [nesta hiperligação](abp:subscribe?location=https://raw.githubusercontent.com/brunomiguel/antinonio/master/antinonio.txt&title=AakList%20(Anti-Nónio)).
+Clicar [nesta hiperligação](abp:subscribe?location=https://raw.githubusercontent.com/brunomiguel/antinonio/master/antinonio.txt&title=Anti-Nónio).
 
 #### Opção 2
 * copiar o endereço https://raw.githubusercontent.com/brunomiguel/antinonio/master/antinonio.txt
