@@ -1,209 +1,362 @@
-* 1rx.io * block
-* 2mdn.net * block
-* 360yield.com * block
-* acuityplatform.com * block
-* adbrn.com * block
-* adcell.io * block
-* addthis.com * block
-* addthisedge.com * block
-* adentifi.com * block
-* adform.net * block
-* adgrx.com * block
-* adhigh.net * block
-* adhood.com * block
-* adition.com * block
-* adledge.com * block
-* adnxs.com * block
-* adobe.com * block
-* adotmob.com * block
-* adrcdn.com * block
-* adsafeprotected.com * block
-* ad-score.com * block
-* adsrvr.org * block
-* ads-twitter.com * block
-* adsymptotic.com * block
-* adtlgc.com * block
-* advertising.com * block
-* aerserv.com * block
-* afy11.net * block
-* agkn.com * block
-* alooma.com * block
-* ampproject.org * block
-* appier.net * block
-* arrivalist.com * block
-* atdmt.com * block
-* azureedge.net * block
-* baseDomain * block
-* beachfrontmedia.com * block
-* bet.pt * block
-* bfmio.com * block
-* bidr.io * block
-* bidswitch.net * block
-* bidtheatre.com * block
-* blismedia.com * block
-* bluekai.com * block
-* bnmla.com * block
-* brpx.io * block
-* btrll.com * block
-* bttrack.com * block
-* byside.com * block
-* c1exchange.com * block
-* casalemedia.com * block
-* cedexis.com * block
-* cedexis-radar.net * block
-* cedexis-test.com * block
-* centralimo.pt * block
-* chartbeat.com * block
-* chartbeat.net * block
-* cint.com * block
-* clevernetwork.pt * block
-* clevernt.com * block
-* connexity.net * block
-* contextweb.com * block
-* convertro.com * block
-* createjs.com * block
-* creative-serving.com * block
-* cryptoloot.pro * block
-* criteo.com * block
-* criteo.net * block
-* crm4d.com * block
-* crwdcntrl.net * block
-* ctnsnet.com * block
-* ctrlztest.com.ar * block
-* cwkuki.com * block
-* cxense.com * block
-* de17a.com * block
-* demandwebstrem.com * block
-* demdex.net * block
-* disquscdn.com * block
-* disqus.com * block
-* dotomi.com * block
-* doubleclick.net * block
-* doubleverify.com * block
-* eacdn.com * block
-* easydmp.net * block
-* effitarget.com * block
-* e-goi.com * block
-* email-reflex.com * block
-* engageya.com * block
-* everesttech.net * block
-* exe.bid * block
-* exelator.com * block
-* extend.tv * block
-* eyereturn.com * block
-* eyeviewads.com * block
-* facebook.net * block
-* fbcdn.net * block
-* fleetdata.com * block
-* fotorama.io * block
-* gemius.pl * block
-* gigya.com * block
-* globalsportsmedia.com * block
-* glotgrx.com * block
-* googleadservices.com * block
-* google-analytics.com * block
-* googlesyndication.com * block
-* googletagmanager.com * block
-* googletagservices.com * block
-* gravatar.com * block
-* gstatic.com * block
-* gwallet.com * block
-* heatmap.it * block
-* imasdk.googleapis.com * block
-* impdesk.com * block
-* impresapublishing.pt * block
-* ipredictive.com * block
-* jsdelivr.net * block
-* jwpltx.com * block
-* korrelate.net * block
-* krxd.net * block
-* kwpsurveys.com * block
-* leiki.com * block
-* lemonpi.io * block
-* lkqd.net * block
-* load.s3.amazonaws.com * block
-* lojaimpresa.pt * block
-* lporirxe.com * block
-* marktest.pt * block
-* mathtag.com * block
-* media6degrees.com * block
-* media.net * block
-* metaffiliation.com * block
-* mixpanel.com * block
-* moatads.com * block
-* mobileadtrading.com * block
-* mookie1.com * block
-* mxpnl.com * block
-* mxptint.net * block
-* mythings.com * block
-* narrative.io * block
-* netseer.com * block
-* nexac.com * block
-* ok.ru * block
-* onesignal.com * block
-* onthe.io * block
-* openx.net * block
-* optimatic.com * block
-* optimizely.com * block
-* optimost.com * block
-* optnmstr.com * block
-* os.tc * block
-* owneriq.net * block
-* page-view-ingestion.appspot.com * block
-* peer5.com * block
-* pippio.com * block
-* powerlinks.com * block
-* programattik.com * block
-* pubmatic.com * block
-* quantserve.com * block
-* quick-yen-88111.appspot.com * block
-* rackcdn.com * block
-* realtime.co * block
-* revcontent.com * block
-* revsci.net * block
-* rfihub.com * block
-* rlcdn.com * block
-* rubiconproject.com * block
-* rundsp.com * block
-* sabio.us * block
-* sascdn.com * block
-* scdn.co * block
-* scorecardresearch.com * block
-* semasio.net * block
-* serving-sys.com * block
-* sharethis.com * block
-* simpli.fi * block
-* sitescout.com * block
-* sitewebvideo.com * block
-* smartadserver.cn * block
-* smartadserver.com * block
-* sojern.com * block
-* springserve.com * block
-* streamrail.com * block
-* streamrail.net * block
-* tapad.com * block
-* teads.tv * block
-* tekblue.net * block
-* tidaltv.com * block
-* tinypass.com * block
-* tribalfusion.com * block
-* trugaze.io * block
-* turn.com * block
-* userreport.com * block
-* vidazoo.com * block
-* videoplaza.tv * block
-* vidible.tv * block
-* vilynx.com * block
-* vindicosuite.com * block
-* virool.com * block
-* visualdna.com * block
-* vk.com * block
-* w55c.net * block
-* weborama.com * block
-* weborama.fr * block
-* wibbitz.com * block
-* windows.net * block
-* yabidos.com * block
-* yahooapis.com * block
-* zemanta.com * block
-* zencdn.net * block
+127.0.0.1 1rx.io
+
+127.0.0.1 2mdn.net
+
+127.0.0.1 360yield.com
+
+127.0.0.1 acuityplatform.com
+
+127.0.0.1 adbrn.com
+
+127.0.0.1 adcell.io
+
+127.0.0.1 addthis.com
+
+127.0.0.1 addthisedge.com
+
+127.0.0.1 adentifi.com
+
+127.0.0.1 adform.net
+
+127.0.0.1 adgrx.com
+
+127.0.0.1 adhigh.net
+
+127.0.0.1 adhood.com
+
+127.0.0.1 adition.com
+
+127.0.0.1 adledge.com
+
+127.0.0.1 adnxs.com
+
+127.0.0.1 adotmob.com
+
+127.0.0.1 adrcdn.com
+
+127.0.0.1 adsafeprotected.com
+
+127.0.0.1 ad-score.com
+
+127.0.0.1 adsrvr.org
+
+127.0.0.1 ads-twitter.com
+
+127.0.0.1 adsymptotic.com
+
+127.0.0.1 adtlgc.com
+
+127.0.0.1 advertising.com
+
+127.0.0.1 aerserv.com
+
+127.0.0.1 afy11.net
+
+127.0.0.1 agkn.com
+
+127.0.0.1 alooma.com
+
+127.0.0.1 appier.net
+
+127.0.0.1 arrivalist.com
+
+127.0.0.1 atdmt.com
+
+127.0.0.1 azureedge.net
+
+127.0.0.1 beachfrontmedia.com
+
+127.0.0.1 bfmio.com
+
+127.0.0.1 bidr.io
+
+127.0.0.1 bidswitch.net
+
+127.0.0.1 bidtheatre.com
+
+127.0.0.1 blismedia.com
+
+127.0.0.1 bluekai.com
+
+127.0.0.1 bnmla.com
+
+127.0.0.1 btrll.com
+
+127.0.0.1 bttrack.com
+
+127.0.0.1 c1exchange.com
+
+127.0.0.1 casalemedia.com
+
+127.0.0.1 cedexis.com
+
+127.0.0.1 cedexis-radar.net
+
+127.0.0.1 cedexis-test.com
+
+127.0.0.1 chartbeat.com
+
+127.0.0.1 chartbeat.net
+
+127.0.0.1 cint.com
+
+127.0.0.1 clevernetwork.pt
+
+127.0.0.1 clevernt.com
+
+127.0.0.1 connexity.net
+
+127.0.0.1 contextweb.com
+
+127.0.0.1 convertro.com
+
+127.0.0.1 creative-serving.com
+
+127.0.0.1 cryptoloot.pro
+
+127.0.0.1 criteo.com
+
+127.0.0.1 criteo.net
+
+127.0.0.1 crm4d.com
+
+127.0.0.1 crwdcntrl.net
+
+127.0.0.1 ctnsnet.com
+
+127.0.0.1 ctrlztest.com.ar
+
+127.0.0.1 cwkuki.com
+
+127.0.0.1 cxense.com
+
+127.0.0.1 de17a.com
+
+127.0.0.1 demandwebstrem.com
+
+127.0.0.1 demdex.net
+
+127.0.0.1 dotomi.com
+
+127.0.0.1 doubleclick.net
+
+127.0.0.1 doubleverify.com
+
+127.0.0.1 eacdn.com
+
+127.0.0.1 easydmp.net
+
+127.0.0.1 effitarget.com
+
+127.0.0.1 e-goi.com
+
+127.0.0.1 email-reflex.com
+
+127.0.0.1 engageya.com
+
+127.0.0.1 everesttech.net
+
+127.0.0.1 exe.bid
+
+127.0.0.1 exelator.com
+
+127.0.0.1 extend.tv
+
+127.0.0.1 eyereturn.com
+
+127.0.0.1 eyeviewads.com
+
+127.0.0.1 fleetdata.com
+
+127.0.0.1 gemius.pl
+
+127.0.0.1 gigya.com
+
+127.0.0.1 globalsportsmedia.com
+
+127.0.0.1 glotgrx.com
+
+127.0.0.1 gwallet.com
+
+127.0.0.1 heatmap.it
+
+127.0.0.1 imasdk.googleapis.com
+
+127.0.0.1 impdesk.com
+
+127.0.0.1 ipredictive.com
+
+127.0.0.1 jsdelivr.net
+
+127.0.0.1 jwpltx.com
+
+127.0.0.1 korrelate.net
+
+127.0.0.1 krxd.net
+
+127.0.0.1 kwpsurveys.com
+
+127.0.0.1 leiki.com
+
+127.0.0.1 lemonpi.io
+
+127.0.0.1 lkqd.net
+
+127.0.0.1 load.s3.amazonaws.com
+
+127.0.0.1 lporirxe.com
+
+127.0.0.1 mathtag.com
+
+127.0.0.1 media6degrees.com
+
+127.0.0.1 media.net
+
+127.0.0.1 metaffiliation.com
+
+127.0.0.1 moatads.com
+
+127.0.0.1 mobileadtrading.com
+
+127.0.0.1 mookie1.com
+
+127.0.0.1 mxpnl.com
+
+127.0.0.1 mxptint.net
+
+127.0.0.1 mythings.com
+
+127.0.0.1 narrative.io
+
+127.0.0.1 netseer.com
+
+127.0.0.1 nexac.com
+
+127.0.0.1 ok.ru
+
+127.0.0.1 onthe.io
+
+127.0.0.1 openx.net
+
+127.0.0.1 optimatic.com
+
+127.0.0.1 optimizely.com
+
+127.0.0.1 optimost.com
+
+127.0.0.1 optnmstr.com
+
+127.0.0.1 os.tc
+
+127.0.0.1 owneriq.net
+
+127.0.0.1 page-view-ingestion.appspot.com
+
+127.0.0.1 peer5.com
+
+127.0.0.1 pippio.com
+
+127.0.0.1 powerlinks.com
+
+127.0.0.1 programattik.com
+
+127.0.0.1 pubmatic.com
+
+127.0.0.1 quantserve.com
+
+127.0.0.1 quick-yen-88111.appspot.com
+
+127.0.0.1 rackcdn.com
+
+127.0.0.1 realtime.co
+
+127.0.0.1 revcontent.com
+
+127.0.0.1 revsci.net
+
+127.0.0.1 rfihub.com
+
+127.0.0.1 rlcdn.com
+
+127.0.0.1 rubiconproject.com
+
+127.0.0.1 rundsp.com
+
+127.0.0.1 sabio.us
+
+127.0.0.1 sascdn.com
+
+127.0.0.1 scdn.co
+
+127.0.0.1 scorecardresearch.com
+
+127.0.0.1 semasio.net
+
+127.0.0.1 serving-sys.com
+
+127.0.0.1 simpli.fi
+
+127.0.0.1 sitescout.com
+
+127.0.0.1 sitewebvideo.com
+
+127.0.0.1 smartadserver.cn
+
+127.0.0.1 smartadserver.com
+
+127.0.0.1 sojern.com
+
+127.0.0.1 springserve.com
+
+127.0.0.1 streamrail.com
+
+127.0.0.1 streamrail.net
+
+127.0.0.1 tapad.com
+
+127.0.0.1 teads.tv
+
+127.0.0.1 tekblue.net
+
+127.0.0.1 tidaltv.com
+
+127.0.0.1 tinypass.com
+
+127.0.0.1 tribalfusion.com
+
+127.0.0.1 trugaze.io
+
+127.0.0.1 turn.com
+
+127.0.0.1 userreport.com
+
+127.0.0.1 vidazoo.com
+
+127.0.0.1 videoplaza.tv
+
+127.0.0.1 vidible.tv
+
+127.0.0.1 vilynx.com
+
+127.0.0.1 vindicosuite.com
+
+127.0.0.1 virool.com
+
+127.0.0.1 visualdna.com
+
+127.0.0.1 w55c.net
+
+127.0.0.1 weborama.com
+
+127.0.0.1 weborama.fr
+
+127.0.0.1 wibbitz.com
+
+127.0.0.1 windows.net
+
+127.0.0.1 yabidos.com
+
+127.0.0.1 zemanta.com
+
+127.0.0.1 zencdn.net
+
