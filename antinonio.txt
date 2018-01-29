@@ -1,4 +1,4 @@
-! Expires: 2 days (update frequency)
+! Expires: 6 hours (update frequency)
 ! GitHub issues: https://github.com/brunomiguel/antinonio/issues
 ! Homepage: https://nonio.pt
 
