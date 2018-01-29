@@ -13,3 +13,6 @@ A lista é considerada alpha. Usem por vossa conta e risco. **Pull requests e/ou
 Se tens interesse em colaborar com este projeto através da submissão de regras de bloqueio, recomendo a leitura das seguintes páginas:
 * https://adblockplus.org/filters
 * https://adblockplus.org/filter-cheatsheet
+
+## Licença
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional</a>.
