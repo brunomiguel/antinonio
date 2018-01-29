@@ -1,11 +1,10 @@
-**Esta lista foi retirada do site Anti Nónio: https://nonio.pt/ublock.html** (e nada tem a ver com o autor deste repositório)
+Esta lista começou como uma replica do conteúdo que estava na plataforma Anti Nónio, em https://nonio.pt/ublock.html. No entanto, como esse conteúdo continha vários endereços que eu considero que não deviam constar nela, decidi refazê-la e torná-la mais dinâmica.
 
-Este repositório apenas replica essa lista e facilita a sua integração no uBlock Origin.
-Para a utilizares no uBlock, deves:
+A intenção deste repositório é servir de staging da lista que consta na plataforma Anti Nónio. Sempre que forem feitas alterações e elas forem consideradas estáveis, será feito um pull request para o website da plataforma. A aceitação desse pull request carece sempre de aprovação do autor do website, e que é independente deste repositório.
+
+Para utilizares a lista no uBlock, deves:
 * copiar o endereço https://raw.githubusercontent.com/brunomiguel/antinonio/master/antinonio.txt
 * aceder às opções do adblocker e clicar no separador 3rd-party filters
 * ir até ao final desse separador e colar a hiperligação copiada no último campo
 
-Pull requests e/ou bug reports são bem-vindos.
-
-A lista é considerada alpha. Usem por vossa conta e risco.
+A lista é considerada alpha. Usem por vossa conta e risco. **Pull requests e/ou bug reports são bem-vindos.**
