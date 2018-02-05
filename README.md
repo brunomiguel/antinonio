@@ -13,6 +13,7 @@ A lista é considerada alpha. Usem por vossa conta e risco. **Pull requests e/ou
 Se tens interesse em colaborar com este projeto através da submissão de regras de bloqueio, recomendo a leitura das seguintes páginas:
 * https://adblockplus.org/filters
 * https://adblockplus.org/filter-cheatsheet
+* https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax
 
 ## ToDo
 - [x] juntar as regras do uBlock Origin e do uMatrix num só ficheiro
