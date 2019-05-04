@@ -82,6 +82,7 @@ maisfutebol.iol.pt * inline-script block
 * agkn.com * block
 * alooma.com * block
 * amazon-adsystem.com * block
+* aminhaconta.xl.pt * block
 * amgdgt.com * block
 * ampproject.org * block
 * analytics.twitter.com * block
