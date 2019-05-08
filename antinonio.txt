@@ -33,6 +33,10 @@ maisfutebol.iol.pt * inline-script block
 ||static.publicocdn.com/files/site/assets/img/nonio/*$image,important
 ||www.publico.pt/content/nonio/*$xmlhttprequest,important
 
+! -------------------------------------------------- !
+! Regra para cofina                                  !
+! -------------------------------------------------- !
+||aminhaconta.xl.pt/*.js
 
 ! ------------------------------------------------------ !
 ! Regras de bloqueio globais para os sites da rede nonio !
