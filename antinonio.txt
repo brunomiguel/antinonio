@@ -34,6 +34,11 @@ maisfutebol.iol.pt * inline-script block
 ||www.publico.pt/content/nonio/*$xmlhttprequest,important
 
 
+! -------------------------------------------------- !
+! Regra para IOL/TVI                      !
+! -------------------------------------------------- !
+||cdn.iol.pt/utils/NonioContentGatting/js/*.js
+
 ! ------------------------------------------------------ !
 ! Regras de bloqueio globais para os sites da rede nonio !
 ! ------------------------------------------------------ !
