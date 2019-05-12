@@ -340,3 +340,11 @@ maisfutebol.iol.pt * inline-script block
 * y-medialink.com * block
 * zemanta.com * block
 * zencdn.net * block
+
+! ----------------------------------------------------------------------------------------------------- !
+! Scripts impresa                                                                                       !
+! (gamado daqui https://github.com/tomahock/anti-nonio/commit/b550b38d68029f9624a4bceb968a559bfc72193c) !
+! ----------------------------------------------------------------------------------------------------- !
+https://id.impresa.pt/js/frame.html
+https://static.impresa.pt/content-gate/active/content-gate.min.js
+https://id.impresa.pt/js/impresa-sso.min.js
