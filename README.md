@@ -17,6 +17,8 @@ Se tens interesse em colaborar com este projeto através da submissão de regras
 
 ## ToDo
 - [x] juntar as regras do uBlock Origin e do uMatrix num só ficheiro
+- [ ] testar lista em 50% dos sites da rede nonio
+- [ ] testar lista em 100% dos sites da rede nonio
 
 ## Licença
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional</a>.
