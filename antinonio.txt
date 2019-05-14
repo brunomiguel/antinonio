@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Expires: 6 hours (update frequency)
+! Expires: 3 hours (update frequency)
 ! GitHub issues: https://github.com/brunomiguel/antinonio/issues
 ! Homepage: https://nonio.pt
 
