@@ -345,11 +345,17 @@ maisfutebol.iol.pt * inline-script block
 ! Scripts impresa                                                                                       !
 ! (gamado daqui https://github.com/tomahock/anti-nonio/commit/b550b38d68029f9624a4bceb968a559bfc72193c) !
 ! ----------------------------------------------------------------------------------------------------- !
-https://id.impresa.pt/js/frame.html
-https://static.impresa.pt/content-gate/active/content-gate.min.js
-https://id.impresa.pt/js/impresa-sso.min.js
+||id.impresa.pt/js/frame.html
+||static.impresa.pt/content-gate/active/content-gate.min.js
+||id.impresa.pt/js/impresa-sso.min.js
 
-! -------------------------------------------------- !
-! DN e JN                                 !
-! -------------------------------------------------- !
+! ------- !
+! DN e JN !
+! ------- !
 ||tinypass.com/*.js
+
+! --- !
+! TVI !
+! --- !
+||cdn.iol.pt/js/utils/blockadblock.js
+||cdn.iol.pt/utils/NonioContentGatting/js/nonioContentBar.js
