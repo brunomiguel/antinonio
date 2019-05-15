@@ -38,6 +38,7 @@ maisfutebol.iol.pt * inline-script block
 ! Regra para cofina                                  !
 ! -------------------------------------------------- !
 ||aminhaconta.xl.pt/*.js
+||www.cmjornal.pt/hits/scripts/cofinahits.js
 
 ! -------------------------------------------------- !
 ! Regra para IOL/TVI                      !
