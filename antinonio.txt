@@ -43,6 +43,7 @@ maisfutebol.iol.pt * inline-script block
 ! -------------------------------------------------- !
 ! Regra para IOL/TVI                      !
 ! -------------------------------------------------- !
+||cdn.iol.pt/js/utils/blockadblock.js
 ||cdn.iol.pt/utils/NonioContentGatting/js/*.js
 
 ! ------------------------------------------------------ !
@@ -354,9 +355,3 @@ maisfutebol.iol.pt * inline-script block
 ! DN e JN !
 ! ------- !
 ||tinypass.com/*.js
-
-! --- !
-! TVI !
-! --- !
-||cdn.iol.pt/js/utils/blockadblock.js
-||cdn.iol.pt/utils/NonioContentGatting/js/nonioContentBar.js
