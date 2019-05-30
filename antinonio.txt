@@ -118,8 +118,6 @@ maisfutebol.iol.pt * inline-script block
 * bluekai.com * block
 * bnmla.com * block
 * browseset.com * block
-* brpx.com * block
-* brpx.io * block
 * btrll.com * block
 * bttrack.com * block
 * byside.com * block
