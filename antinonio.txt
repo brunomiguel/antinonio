@@ -353,3 +353,9 @@ maisfutebol.iol.pt * inline-script block
 ! DN e JN !
 ! ------- !
 ||tinypass.com/*.js
+
+! ---------------- !
+! Grupo Renascença !
+! ---------------- !
+||*/noniogating/*.js
+||*/noniogatting.js
