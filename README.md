@@ -17,7 +17,7 @@ Se tens interesse em colaborar com este projeto através da submissão de regras
 
 ## ToDo
 - [x] juntar as regras do uBlock Origin e do uMatrix num só ficheiro
-- [ ] testar lista em 50% dos sites da rede nonio
+- [x] testar lista em 50% dos sites da rede nonio
 - [ ] testar lista em 100% dos sites da rede nonio
 
 ## Licença
