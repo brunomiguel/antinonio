@@ -40,15 +40,17 @@ maisfutebol.iol.pt * inline-script block
 ||www.cmjornal.pt/hits/scripts/cofinahits.js
 
 ! -------------------------------------------------- !
-! Regra para IOL/TVI                                 !
+! Regra para grupo IOL                               !
 ! -------------------------------------------------- !
 ||cdn.iol.pt/js/utils/blockadblock.js
 ||cdn.iol.pt/utils/NonioContentGatting/js/*.js
+||radiocomercial.iol.pt/scripts/vendor/NonioContentGatting/*$first-party,important
+||cidade.iol.pt/scripts/vendor/noniocontentgatting/js/noniocontentbar.js$important
 
 ! -------------------------------------------------- !
-! Regra especial para a cidade                       !
+! Regra para Global Media Group                      !
 ! -------------------------------------------------- !
-||cidade.iol.pt/scripts/vendor/noniocontentgatting/js/noniocontentbar.js$important
+||nonio.globalmediagroup.pt^$important
 
 ! ------------------------------------------------------ !
 ! Regras de bloqueio globais para os sites da rede nonio !
