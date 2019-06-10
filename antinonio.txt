@@ -46,6 +46,7 @@ maisfutebol.iol.pt * inline-script block
 ||cdn.iol.pt/utils/NonioContentGatting/js/*.js
 ||radiocomercial.iol.pt/scripts/vendor/NonioContentGatting/*$first-party,important
 ||cidade.iol.pt/scripts/vendor/noniocontentgatting/js/noniocontentbar.js$important
+||m80.iol.pt/scripts/vendor/NonioContentGatting/*$important
 
 ! -------------------------------------------------- !
 ! Regra para Global Media Group                      !
