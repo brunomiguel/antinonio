@@ -28,7 +28,6 @@ maisfutebol.iol.pt * inline-script block
 ! -------------------------------------------------- !
 ! Regra especial para o publico                      !
 ! -------------------------------------------------- !
-! 25/04/2019 publico.pt
 ||s.publico.pt/nonio/*$script,domain=www.publico.pt,important
 ||static.publicocdn.com/files/site/js/nonioLoginV2.js$important
 ||static.publicocdn.com/files/site/assets/img/nonio/*$image,important
@@ -41,10 +40,15 @@ maisfutebol.iol.pt * inline-script block
 ||www.cmjornal.pt/hits/scripts/cofinahits.js
 
 ! -------------------------------------------------- !
-! Regra para IOL/TVI                      !
+! Regra para IOL/TVI                                 !
 ! -------------------------------------------------- !
 ||cdn.iol.pt/js/utils/blockadblock.js
 ||cdn.iol.pt/utils/NonioContentGatting/js/*.js
+
+! -------------------------------------------------- !
+! Regra especial para a cidade                       !
+! -------------------------------------------------- !
+||cidade.iol.pt/scripts/vendor/noniocontentgatting/js/noniocontentbar.js$important
 
 ! ------------------------------------------------------ !
 ! Regras de bloqueio globais para os sites da rede nonio !
