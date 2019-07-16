@@ -22,3 +22,6 @@ Se tens interesse em colaborar com este projeto através da submissão de regras
 
 ## Licença
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional</a>.
+
+## Agradecimentos
+Agradeço a tod@s que colaboraram na criação e testes desta lista. Um agradecimento especial ao @PJFonseca e ao @Perksls pelo trabalho que tiveram a testar esta lista nos sites da rede Nónio
