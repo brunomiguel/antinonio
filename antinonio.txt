@@ -57,7 +57,7 @@ maisfutebol.iol.pt * inline-script block
 ! --------------------------------------------- !
 ! Regra para Media Capital                      !
 ! --------------------------------------------- !
-||cdn.iol.pt/js/utils/JW8/iol.player*.js
+||cdn.iol.pt/js/utils/JW8/*.js$important
 
 ! ------------------------------------------------------ !
 ! Regras de bloqueio globais para os sites da rede nonio !
