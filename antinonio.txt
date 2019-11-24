@@ -24,6 +24,7 @@ ojogo.pt * inline-script block
 dinheirovivo.pt * inline-script block
 radiocomercial.iol.pt * inline-script block
 maisfutebol.iol.pt * inline-script block
+tvi24.iol.pt * inline-script block
 
 ! -------------------------------------------------- !
 ! Regra especial para o publico                      !
@@ -57,8 +58,8 @@ maisfutebol.iol.pt * inline-script block
 ! --------------------------------------------- !
 ! Regra para Media Capital                      !
 ! --------------------------------------------- !
-||cdn.iol.pt/js/utils/JW8/iol.player_2.0.6.js^$important
-||cdn.iol.pt/BarraIOL/dist/assets/scripts/barra_IOL.js$important
+||cdn.iol.pt/js/utils/JW8/iol.player_2.0.6.js^
+||cdn.iol.pt/BarraIOL/dist/assets/scripts/barra_IOL.js
 
 ! ------------------------------------------------------ !
 ! Regras de bloqueio globais para os sites da rede nonio !
