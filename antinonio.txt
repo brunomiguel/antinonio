@@ -53,7 +53,7 @@ tvi24.iol.pt * inline-script block
 ! -------------------------------------------------- !
 ! Regra para Global Media Group                      !
 ! -------------------------------------------------- !
-||nonio.globalmediagroup.pt/*.js
+||*content-gating*
 
 ! --------------------------------------------- !
 ! Regra para Media Capital                      !
