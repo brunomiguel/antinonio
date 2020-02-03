@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Title: Anti Nónio List
 ! Expires: 3 hours (update frequency)
 ! GitHub issues: https://github.com/brunomiguel/antinonio/issues
 ! Homepage: https://nonio.pt
