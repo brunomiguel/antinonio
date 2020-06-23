@@ -7,7 +7,7 @@
 ! -------------------------------------------------- !
 ! Bloqueio de scripts inline nos sites da rede nonio !
 ! -------------------------------------------------- !
-||publico.pt^$inline-script,important
+!||publico.pt^$inline-script,important
 ||expresso.sapo.pt^$inline-script,important
 ||rr.sapo.pt^$inline-script,important
 ||blitz.pt^$inline-script,important
@@ -30,10 +30,10 @@
 ! -------------------------------------------------- !
 ! Regra especial para o publico                      !
 ! -------------------------------------------------- !
-||s.publico.pt/nonio/*$script,domain=www.publico.pt,important
-||static.publicocdn.com/files/site/js/nonioLoginV2.js$important
-||static.publicocdn.com/files/site/assets/img/nonio/*$image,important
-||www.publico.pt/content/nonio/*$xmlhttprequest,important
+!||s.publico.pt/nonio/*$script,domain=www.publico.pt,important
+!||static.publicocdn.com/files/site/js/nonioLoginV2.js$important
+!||static.publicocdn.com/files/site/assets/img/nonio/*$image,important
+!||www.publico.pt/content/nonio/*$xmlhttprequest,important
 
 ! -------------------------------------------------- !
 ! Regra para cofina                                  !
