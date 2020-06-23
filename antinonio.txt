@@ -38,15 +38,15 @@
 ! -------------------------------------------------- !
 ! Regra para cofina                                  !
 ! -------------------------------------------------- !
-||aminhaconta.xl.pt/*.js
-||www.cmjornal.pt/hits/scripts/cofinahits.js
+||aminhaconta.xl.pt/*.js$important
+||www.cmjornal.pt/hits/scripts/cofinahits.js$important
 ||cdn.xl.pt/sso/js/CofinaSSOApi.js$important
 
 ! -------------------------------------------------- !
 ! Regra para grupo IOL                               !
 ! -------------------------------------------------- !
-||cdn.iol.pt/js/utils/blockadblock.js
-||cdn.iol.pt/utils/NonioContentGatting/js/*.js
+||cdn.iol.pt/js/utils/blockadblock.js$important
+||cdn.iol.pt/utils/NonioContentGatting/js/*.js$important
 ||radiocomercial.iol.pt/scripts/vendor/NonioContentGatting/*$first-party,important
 ||cidade.iol.pt/scripts/vendor/noniocontentgatting/js/noniocontentbar.js$important
 ||m80.iol.pt/scripts/vendor/NonioContentGatting/*$important
@@ -54,7 +54,7 @@
 ! -------------------------------------------------- !
 ! Regra para Global Media Group                      !
 ! -------------------------------------------------- !
-||*content-gating*
+||*content-gating*$important
 
 ! --------------------------------------------- !
 ! Regra para Media Capital                      !
@@ -364,17 +364,17 @@ iol.pt###nonio-basiclogin
 ! Scripts impresa                                                                                       !
 ! (gamado daqui https://github.com/tomahock/anti-nonio/commit/b550b38d68029f9624a4bceb968a559bfc72193c) !
 ! ----------------------------------------------------------------------------------------------------- !
-||id.impresa.pt/js/frame.html
-||static.impresa.pt/content-gate/active/content-gate.min.js
-||id.impresa.pt/js/impresa-sso.min.js
+||id.impresa.pt/js/frame.html$important
+||static.impresa.pt/content-gate/active/content-gate.min.js$important
+||id.impresa.pt/js/impresa-sso.min.js$important
 
 ! ------- !
 ! DN e JN !
 ! ------- !
-||tinypass.com/*.js
+||tinypass.com/*.js$important
 
 ! ---------------- !
 ! Grupo Renascença !
 ! ---------------- !
-||*/noniogating/*.js
-||*/noniogatting.js
+||*/noniogating/*.js$important
+||*/noniogatting.js$important
