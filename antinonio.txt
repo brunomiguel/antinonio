@@ -207,11 +207,11 @@ iol.pt###nonio-basiclogin
 ||gemius.pl^$important
 ||gigya.com^$important
 ||glotgrx.com^$important
-||googleadservices.com^$important
-||google-analytics.com^$important
-||googlesyndication.com^$important
-||googletagmanager.com^$important
-||googletagservices.com^$important
+!||googleadservices.com^$important
+!||google-analytics.com^$important
+!||googlesyndication.com^$important
+!||googletagmanager.com^$important
+!||googletagservices.com^$important
 ||gravatar.com^$important
 !||gstatic.com
 ||gumgum.com^$important
