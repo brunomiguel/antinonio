@@ -350,7 +350,7 @@ iol.pt###nonio-basiclogin
 ||weborama.com^$important
 ||weborama.fr^$important
 ||wibbitz.com^$important
-||windows.net^$important
+!||windows.net^$important
 ||w.org^$important
 ||ws.globalnoticias.pt^$important
 ||yabidos.com^$important
