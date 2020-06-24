@@ -201,7 +201,7 @@ iol.pt###nonio-basiclogin
 ||eyereturn.com^$important
 ||eyeviewads.com^$important
 ||fleetdata.com^$important
-||fonts.googleapis.com^$important
+!||fonts.googleapis.com^$important
 ||fotorama.io^$important
 ||foxpush.com^$important
 ||gemius.pl^$important
