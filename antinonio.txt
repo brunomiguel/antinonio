@@ -152,7 +152,7 @@ iol.pt###nonio-basiclogin
 ||chartbeat.com^$important
 ||chartbeat.net^$important
 ||cint.com^$important
-||claranet.pt^$important
+!||claranet.pt^$important
 ||clevernetwork.pt^$important
 ||clevernt.com^$important
 ||comunidade.globalmediagroup.pt^$important
