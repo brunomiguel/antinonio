@@ -41,6 +41,8 @@
 ! -------------------------------------------------- !
 ||aminhaconta.xl.pt/*.js$important
 !||www.cmjornal.pt/hits/scripts/cofinahits.js$important
+||cmjornal.pt/*/collect/pixel.gif$important
+||cmjornal.pt//collect/pixel.gif$important
 ||cdn.xl.pt/sso/js/CofinaSSOApi.js$important
 
 ! -------------------------------------------------- !
