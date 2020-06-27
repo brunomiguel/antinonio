@@ -39,7 +39,7 @@
 ! Regra para cofina                                  !
 ! -------------------------------------------------- !
 ||aminhaconta.xl.pt/*.js$important
-||www.cmjornal.pt/hits/scripts/cofinahits.js$important
+!||www.cmjornal.pt/hits/scripts/cofinahits.js$important
 ||cdn.xl.pt/sso/js/CofinaSSOApi.js$important
 
 ! -------------------------------------------------- !
