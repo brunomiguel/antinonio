@@ -212,7 +212,7 @@ iol.pt###nonio-basiclogin
 !||googlesyndication.com^$important
 !||googletagmanager.com^$important
 !||googletagservices.com^$important
-||gravatar.com^$important
+!||gravatar.com^$important
 !||gstatic.com
 ||gumgum.com^$important
 ||gwallet.com^$important
