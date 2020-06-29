@@ -1,6 +1,6 @@
 ![antinonio](https://i.imgur.com/x74kzEo.jpg)
 
-**Nota:** esta lista sofreu algumas alterações recentemente, por isso é possível que possas encontrar alguma falha. Se encontrares, reporta o bug, por favor, para que possa ser corrigido rapidamente.
+_**Nota:** esta lista sofreu algumas alterações recentemente, por isso é possível que possas encontrar alguma falha. Se encontrares, reporta o bug, por favor, para que possa ser corrigido rapidamente._
 
 Esta lista começou como uma replica do conteúdo que estava na plataforma Anti Nónio, em https://nonio.pt/ublock.html. No entanto, como esse conteúdo continha vários endereços que eu considero que não deviam constar nela, decidi refazê-la e torná-la mais dinâmica.
 
