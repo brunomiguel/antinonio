@@ -1,5 +1,7 @@
 ![antinonio](https://i.imgur.com/x74kzEo.jpg)
 
+**Nota:** esta lista sofreu algumas alterações recentemente, por isso é possível que possas encontrar alguma falha. Se encontrares, reporta o bug, por favor, para que possa ser corrigido rapidamente.
+
 Esta lista começou como uma replica do conteúdo que estava na plataforma Anti Nónio, em https://nonio.pt/ublock.html. No entanto, como esse conteúdo continha vários endereços que eu considero que não deviam constar nela, decidi refazê-la e torná-la mais dinâmica.
 
 A intenção deste repositório é servir de staging da lista que consta na plataforma Anti Nónio. Sempre que forem feitas alterações e elas forem consideradas estáveis, será feito um pull request para o website da plataforma. A aceitação desse pull request carece sempre de aprovação do autor do website, e que é independente deste repositório.
