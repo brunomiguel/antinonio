@@ -74,3 +74,4 @@ iol.pt###nonio-basiclogin
 ! ---------------- !
 ||*/noniogating/*.js$important
 ||*/noniogatting.js$important
+||*/nonio.js$important
