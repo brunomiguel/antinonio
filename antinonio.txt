@@ -14,7 +14,7 @@
 ||expressoemprego.pt^$inline-script,important
 ||exameinformatica.pt^$inline-script,important
 !||cmjornal.pt^$inline-script,important
-||record.pt^$inline-script,important
+!||record.pt^$inline-script,important
 ||jornaldenegocios.pt^$inline-script,important
 ||sabado.pt^$inline-script,important
 ||tsf.pt^$inline-script,important
