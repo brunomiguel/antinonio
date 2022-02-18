@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Lista Anti Nónio para AdGuardHome
+! Title: Lista Anti Nónio
 ! Expires: 3 hours (update frequency)
 ! GitHub issues: https://github.com/brunomiguel/antinonio/issues
 ! Homepage: https://nonio.pt
@@ -38,7 +38,7 @@
 ! -------------------------------------------------- !
 ||cdn.iol.pt/js/utils/blockadblock.js
 ||cdn.iol.pt/utils/NonioContentGatting/js/*.js
-||radiocomercial.iol.pt/scripts/vendor/NonioContentGatting/*$first-party
+||radiocomercial.iol.pt/scripts/vendor/NonioContentGatting/*$first-party,important
 ||cidade.iol.pt/scripts/vendor/noniocontentgatting/js/noniocontentbar.js
 ||m80.iol.pt/scripts/vendor/NonioContentGatting/*
 
@@ -50,7 +50,7 @@
 ! --------------------------------------------- !
 ! Regra para Media Capital                      !
 ! --------------------------------------------- !
-!||cdn.iol.pt/js/utils/JW8/iol.player_2.0.6.js^
+!||cdn.iol.pt/js/utils/JW8/iol.player_2.0.6.js
 !||cdn.iol.pt/BarraIOL/dist/assets/scripts/barra_IOL.js
 tvi24.iol.pt###nonio-basiclogin
 iol.pt###nonio-basiclogin
