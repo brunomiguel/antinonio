@@ -7,24 +7,24 @@
 ! -------------------------------------------------- !
 ! Bloqueio de scripts inline nos sites da rede nonio !
 ! -------------------------------------------------- !
-||expresso.sapo.pt$inline-script
-||rr.sapo.pt$inline-script
-||blitz.pt$inline-script
-||visao.pt$inline-script
-||expressoemprego.pt$inline-script
-||exameinformatica.pt$inline-script
-!||cmjornal.pt$inline-script
-!||record.pt$inline-script
-||jornaldenegocios.pt$inline-script
-||sabado.pt$inline-script
-||tsf.pt$inline-script
-||jn.pt$inline-script
-||dn.pt$inline-script
-||ojogo.pt$inline-script
-||dinheirovivo.pt$inline-script
-||radiocomercial.iol.pt$inline-script
-||maisfutebol.iol.pt$inline-script
-!||tvi24.iol.pt$inline-script
+||expresso.sapo.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||rr.sapo.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||blitz.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||visao.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||expressoemprego.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||exameinformatica.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+!||cmjornal.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+!||record.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||jornaldenegocios.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||sabado.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||tsf.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||jn.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||dn.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||ojogo.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||dinheirovivo.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||radiocomercial.iol.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||maisfutebol.iol.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+!||tvi24.iol.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
 
 ! -------------------------------------------------- !
 ! Regra para cofina                                  !
