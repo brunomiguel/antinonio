@@ -25,7 +25,8 @@
 ||dinheirovivo.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||radiocomercial.iol.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||maisfutebol.iol.pt^$csp=script-src 'self' * 'unsafe-inline'
-!||tvi24.iol.pt^$csp=script-src 'self' * 'unsafe-inline'
+||tvi24.iol.pt^$csp=script-src 'self' * 'unsafe-inline'
+||cloud.weborama.design/*.js
 
 ! -------------------------------------------------- !
 ! Regra para cofina                                  !
