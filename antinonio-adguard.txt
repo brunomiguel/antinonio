@@ -19,6 +19,7 @@
 ||sabado.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||tsf.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||jn.pt^$csp=script-src 'self' * 'unsafe-inline'
+||nonio.globalmediagroup.pt/*
 ||dn.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||ojogo.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||dinheirovivo.pt^$csp=script-src 'self' * 'unsafe-inline'
