@@ -7,24 +7,24 @@
 ! -------------------------------------------------- !
 ! Bloqueio de scripts inline nos sites da rede nonio !
 ! -------------------------------------------------- !
-||expresso.sapo.pt^$inline-script
-||rr.sapo.pt^$inline-script
-||blitz.pt^$inline-script
-||visao.pt^$inline-script
-||expressoemprego.pt^$inline-script
-||exameinformatica.pt^$inline-script
-!||cmjornal.pt^$inline-script
-!||record.pt^$inline-script
-||jornaldenegocios.pt^$inline-script
-||sabado.pt^$inline-script
-||tsf.pt^$inline-script
-||jn.pt^$inline-script
-||dn.pt^$inline-script
-||ojogo.pt^$inline-script
-||dinheirovivo.pt^$inline-script
-||radiocomercial.iol.pt^$inline-script
-||maisfutebol.iol.pt^$inline-script
-!||tvi24.iol.pt^$inline-script
+||expresso.sapo.pt$inline-script
+||rr.sapo.pt$inline-script
+||blitz.pt$inline-script
+||visao.pt$inline-script
+||expressoemprego.pt$inline-script
+||exameinformatica.pt$inline-script
+!||cmjornal.pt$inline-script
+!||record.pt$inline-script
+||jornaldenegocios.pt$inline-script
+||sabado.pt$inline-script
+||tsf.pt$inline-script
+||jn.pt$inline-script
+||dn.pt$inline-script
+||ojogo.pt$inline-script
+||dinheirovivo.pt$inline-script
+||radiocomercial.iol.pt$inline-script
+||maisfutebol.iol.pt$inline-script
+!||tvi24.iol.pt$inline-script
 
 ! -------------------------------------------------- !
 ! Regra para cofina                                  !
