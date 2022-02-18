@@ -7,24 +7,24 @@
 ! -------------------------------------------------- !
 ! Bloqueio de scripts inline nos sites da rede nonio !
 ! -------------------------------------------------- !
-||expresso.sapo.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||rr.sapo.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||blitz.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||visao.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||expressoemprego.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||exameinformatica.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-!||cmjornal.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-!||record.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||jornaldenegocios.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||sabado.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||tsf.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||jn.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||dn.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||ojogo.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||dinheirovivo.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||radiocomercial.iol.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-||maisfutebol.iol.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
-!||tvi24.iol.pt^$csp=script-src 'self' 'unsafe-eval' http: https:
+||expresso.sapo.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||rr.sapo.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||blitz.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||visao.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||expressoemprego.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||exameinformatica.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+!||cmjornal.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+!||record.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||jornaldenegocios.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||sabado.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||tsf.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||jn.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||dn.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||ojogo.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||dinheirovivo.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||radiocomercial.iol.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||maisfutebol.iol.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+!||tvi24.iol.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
 
 ! -------------------------------------------------- !
 ! Regra para cofina                                  !
@@ -58,7 +58,7 @@ iol.pt###nonio-basiclogin
 
 ! ----------------------------------------------------------------------------------------------------- !
 ! Scripts impresa                                                                                       !
-! (gamado daqui https://github.com/tomahock/anti-nonio/commit/b550b38d68029f9624a4bceb968a559bfc72193c) !
+! (gamado daqui https: blob: data://github.com/tomahock/anti-nonio/commit/b550b38d68029f9624a4bceb968a559bfc72193c) !
 ! ----------------------------------------------------------------------------------------------------- !
 ||id.impresa.pt/js/frame.html
 ||static.impresa.pt/content-gate/active/content-gate.min.js
