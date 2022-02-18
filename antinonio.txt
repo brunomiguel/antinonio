@@ -24,7 +24,8 @@
 ||dinheirovivo.pt^$inline-script,important
 ||radiocomercial.iol.pt^$inline-script,important
 ||maisfutebol.iol.pt^$inline-script,important
-!||tvi24.iol.pt^$inline-script,important
+||tvi24.iol.pt^$inline-script,important
+||cloud.weborama.design/*.js$important;
 
 ! -------------------------------------------------- !
 ! Regra para cofina                                  !
