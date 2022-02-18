@@ -7,24 +7,24 @@
 ! -------------------------------------------------- !
 ! Bloqueio de scripts inline nos sites da rede nonio !
 ! -------------------------------------------------- !
-||expresso.sapo.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||rr.sapo.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||blitz.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||visao.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||expressoemprego.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||exameinformatica.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-!||cmjornal.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-!||record.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||jornaldenegocios.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||sabado.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||tsf.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||jn.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||dn.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||ojogo.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||dinheirovivo.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||radiocomercial.iol.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-||maisfutebol.iol.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
-!||tvi24.iol.pt^$csp=script-src 'self' * 'unsafe-inline' http: https: blob: data:
+||expresso.sapo.pt^$csp=script-src 'self' * 'unsafe-inline'
+||rr.sapo.pt^$csp=script-src 'self' * 'unsafe-inline'
+||blitz.pt^$csp=script-src 'self' * 'unsafe-inline'
+||visao.pt^$csp=script-src 'self' * 'unsafe-inline'
+||expressoemprego.pt^$csp=script-src 'self' * 'unsafe-inline'
+||exameinformatica.pt^$csp=script-src 'self' * 'unsafe-inline'
+!||cmjornal.pt^$csp=script-src 'self' * 'unsafe-inline'
+!||record.pt^$csp=script-src 'self' * 'unsafe-inline'
+||jornaldenegocios.pt^$csp=script-src 'self' * 'unsafe-inline'
+||sabado.pt^$csp=script-src 'self' * 'unsafe-inline'
+||tsf.pt^$csp=script-src 'self' * 'unsafe-inline'
+||jn.pt^$csp=script-src 'self' * 'unsafe-inline'
+||dn.pt^$csp=script-src 'self' * 'unsafe-inline'
+||ojogo.pt^$csp=script-src 'self' * 'unsafe-inline'
+||dinheirovivo.pt^$csp=script-src 'self' * 'unsafe-inline'
+||radiocomercial.iol.pt^$csp=script-src 'self' * 'unsafe-inline'
+||maisfutebol.iol.pt^$csp=script-src 'self' * 'unsafe-inline'
+!||tvi24.iol.pt^$csp=script-src 'self' * 'unsafe-inline'
 
 ! -------------------------------------------------- !
 ! Regra para cofina                                  !
