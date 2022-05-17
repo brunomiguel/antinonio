@@ -18,11 +18,11 @@
 ||jornaldenegocios.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||sabado.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||tsf.pt^$csp=script-src 'self' * 'unsafe-inline'
-||jn.pt^$csp=script-src 'self' * 'unsafe-inline'
-||nonio.globalmediagroup.pt/*
-||dn.pt^$csp=script-src 'self' * 'unsafe-inline'
-||ojogo.pt^$csp=script-src 'self' * 'unsafe-inline'
-||dinheirovivo.pt^$csp=script-src 'self' * 'unsafe-inline'
+!||jn.pt^$csp=script-src 'self' * 'unsafe-inline'
+!||nonio.globalmediagroup.pt/*
+!||dn.pt^$csp=script-src 'self' * 'unsafe-inline'
+!||ojogo.pt^$csp=script-src 'self' * 'unsafe-inline'
+!||dinheirovivo.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||radiocomercial.iol.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||maisfutebol.iol.pt^$csp=script-src 'self' * 'unsafe-inline'
 ||tvi24.iol.pt^$csp=script-src 'self' * 'unsafe-inline'
@@ -47,7 +47,7 @@
 ! -------------------------------------------------- !
 ! Regra para Global Media Group                      !
 ! -------------------------------------------------- !
-||*content-gating*
+!||*content-gating*
 
 ! --------------------------------------------- !
 ! Regra para Media Capital                      !
@@ -69,7 +69,7 @@ iol.pt###nonio-basiclogin
 ! ------- !
 ! DN e JN !
 ! ------- !
-||tinypass.com/*.js
+!||tinypass.com/*.js
 
 ! ---------------- !
 ! Grupo Renascença !

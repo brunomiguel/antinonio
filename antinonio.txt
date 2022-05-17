@@ -18,10 +18,10 @@
 ||jornaldenegocios.pt^$inline-script,important
 ||sabado.pt^$inline-script,important
 ||tsf.pt^$inline-script,important
-||jn.pt^$inline-script,important
-||dn.pt^$inline-script,important
-||ojogo.pt^$inline-script,important
-||dinheirovivo.pt^$inline-script,important
+!||jn.pt^$inline-script,important
+!||dn.pt^$inline-script,important
+!||ojogo.pt^$inline-script,important
+!||dinheirovivo.pt^$inline-script,important
 ||radiocomercial.iol.pt^$inline-script,important
 ||maisfutebol.iol.pt^$inline-script,important
 ||tvi24.iol.pt^$inline-script,important
@@ -46,7 +46,7 @@
 ! -------------------------------------------------- !
 ! Regra para Global Media Group                      !
 ! -------------------------------------------------- !
-||*content-gating*$important
+!||*content-gating*$important
 
 ! --------------------------------------------- !
 ! Regra para Media Capital                      !
@@ -68,7 +68,7 @@ iol.pt###nonio-basiclogin
 ! ------- !
 ! DN e JN !
 ! ------- !
-||tinypass.com/*.js$important
+!||tinypass.com/*.js$important
 
 ! ---------------- !
 ! Grupo Renascença !
